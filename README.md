@@ -25,7 +25,7 @@
 I am a computer science student studying at UBC. 
 
 - 📱 In my free time, I do problems on leetcodes to practice coding skills. I also love playing basketball and guitar.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anzhe-xue-97aab5288/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anzhe-xue-97aab5288/)
 - 🚨 Interested in philosophy topics.
 
 ---
