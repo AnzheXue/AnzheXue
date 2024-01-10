@@ -15,4 +15,4 @@ jobs:
         with:
           max_post_count: "4"
           feed_list: "https://dev.to/feed/anzhexue"
-          gh_token: ${{ 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 }}
+          gh_token: ${{ secrets.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 }}
