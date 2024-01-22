@@ -47,5 +47,5 @@ I am a computer science student studying at UBC.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Understanding and Predicts Reviews per Month of Airbnbs in NewYork by Machine Learning](https://dev.to/anzhexue/understanding-and-predicts-reviews-per-month-of-airbnbs-in-newyork-by-machine-learning-acj)
+- [Understanding and Predicting the Feature &quot;Reviews per Month&quot; of Airbnbs in NewYork by Machine Learning](https://dev.to/anzhexue/understanding-and-predicts-reviews-per-month-of-airbnbs-in-newyork-by-machine-learning-acj)
 <!-- BLOG-POST-LIST:END -->
